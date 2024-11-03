@@ -5,6 +5,17 @@ Using a public dataset, this project will use the 6 steps of the data analysis p
 
 ![image](https://github.com/user-attachments/assets/d2b20a45-65bd-42df-99d6-3b2835239e58)
 
+## Deliverables
+
+1. A clear summary of the business task
+2. A description of all data sources used
+3. Documentation of any cleaning or manipulation of data
+4. A summary of your analysis
+5. Supporting visualizations and key findings
+6. Your top high-level content recommendations based on your analysis
+
+
+
 ## Background
 ![bellabeat](https://github.com/user-attachments/assets/c7274ba6-4572-43bf-b235-2ef3c3cff23b)
 
@@ -142,6 +153,8 @@ GROUP BY SleepDay
 
 ## Share
 
-Visualizations and results from the analysis are shared with Bellabeat along with suggestions for how to leverage their products better. A slide deck is used to share the information. 
+Visualizations and results from the analysis are shared with Bellabeat along with suggestions for how to leverage their products better. A [slide deck](https://drive.google.com/file/d/15l4rBjfdViTCDcjn9dBTKrnVjtQlR7T_/view?usp=sharing) is used to share the information. 
 
 ## Act
+
+Based on the recommendations, the Bellabeat will be able to better market their products and improve user engagement.
