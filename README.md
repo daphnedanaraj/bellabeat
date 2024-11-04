@@ -157,4 +157,4 @@ Visualizations and results from the analysis are shared with Bellabeat along wit
 
 ## Act
 
-Based on the recommendations, the Bellabeat will be able to better market their products and improve user engagement.
+Based on the recommendations, the Bellabeat team will be able to better market their products and improve user engagement.
